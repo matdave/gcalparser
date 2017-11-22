@@ -6,7 +6,7 @@ Call the snippet uncached, or with pdoPage, to get a list of upcoming events fro
 
 E.g. gcalparser
 ```$xslt
-[[!googlecalendar?
+[[!gcalparser?
     &calendars=`[[*CalendarID]]`
     &limit=`5`
 ]]
